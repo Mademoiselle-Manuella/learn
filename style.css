@@ -1,1 +1,12 @@
+body{
+    background-color: blanchedalmond;
+    color: black;
+    background-image: url('NOLA.JPG');
+    background-size: cover;
+    text-align: center;
+    font-size: 160%;
+}
+h1{
+    color: whitesmoke;
 
+}
